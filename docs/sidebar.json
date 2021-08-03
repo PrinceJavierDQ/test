@@ -1,6 +1,7 @@
 {
   "test": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module 2 name here": "core.html",
+    "Project name here 2": "index2.html"
   }
 }
