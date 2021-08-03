@@ -3,12 +3,6 @@
 > Summary description here.
 
 
-```python
-# #hide
-# REMOVEDfrom your_lib.part1 import *
-# REMOVEDfrom your_lib.part2 import *
-```
-
 This file will become your README and also the index of your documentation.
 
 ## Install
@@ -29,3 +23,5 @@ Fill me in please! Don't forget code examples:
     2
 
 
+
+## This is in Docs Branch
