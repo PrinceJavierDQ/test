@@ -5,8 +5,8 @@
 
 ```python
 # #hide
-# from your_lib.core import *
-# from your_lib.core2 import *
+# REMOVEDfrom your_lib.part1 import *
+# REMOVEDfrom your_lib.part2 import *
 ```
 
 This file will become your README and also the index of your documentation.
