@@ -10,11 +10,14 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: module 1
       url: Part1.html
     - output: web,pdf
-      title: module 2 name here
+      title: module 2
       url: Part2.html
+    - output: web,pdf
+      title: module 3
+      url: Part3.html
     output: web
     title: test
   output: web

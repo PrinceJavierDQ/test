@@ -1,7 +1,8 @@
 {
   "test": {
     "Overview": "/",
-    "module name here": "Part1.html",
-    "module 2 name here": "Part2.html"
+    "module 1": "Part1.html",
+    "module 2": "Part2.html",
+    "module 3": "Part3.html"
   }
 }

@@ -5,7 +5,8 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 index = {}
 
 modules = ["part1.py",
-           "part2.py"]
+           "part2.py",
+           "part3.py"]
 
 doc_url = "https://PrinceJavierDQ.github.io/test/"
 
